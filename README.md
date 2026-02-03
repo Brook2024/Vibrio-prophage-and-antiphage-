@@ -105,6 +105,7 @@ Optional Files
 Nanopore reads: Long-read sequencing data for hybrid assembly
 Custom databases: DefenseFinder, PADS, Kraken2
 Output Structure
+
 results/
 ├── qc/
 │   ├── fastp/              # Quality trimming reports
